@@ -126,7 +126,7 @@ cat data.toml | aichat turn toml below to json > data.json
 Enter Chat REPL if no text input.
 ```
 $ aichat
-Welcome to aichat 0.5.0
+CXN/text Prompt Engineering Test
 Type ".help" for more information.
 〉
 ```
@@ -147,7 +147,7 @@ Tle Chat REPL supports:
 Chat REPL also provide many commands.
 
 ```
-Welcome to aichat 0.5.0
+CXNtext
 Type ".help" for more information.
 .info           Print the information
 .set            Modify the configuration temporarily
